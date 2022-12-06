@@ -1,0 +1,22 @@
+{
+  "name": "cypressapitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasithdilshan20/cypress_api.git"
+  },
+  "author": "LasithaW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lasithdilshan20/cypress_api/issues"
+  },
+  "homepage": "https://github.com/lasithdilshan20/cypress_api#readme",
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  }
+}
