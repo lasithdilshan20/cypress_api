@@ -1,5 +1,6 @@
-describe('empty spec', () => {
-  it('passes', () => {
-    cy.visit('https://example.cypress.io')
-  })
+it('my UI & API test', { env: { snapshotOnly: true } }, () => {
+
+  cy.visit('https://catfact.ninja/') // open app
+  cy.api('/fact') // call api
+
 })
