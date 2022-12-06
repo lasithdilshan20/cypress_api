@@ -18,5 +18,8 @@
   "homepage": "https://github.com/lasithdilshan20/cypress_api#readme",
   "devDependencies": {
     "cypress": "^11.2.0"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.6.1"
   }
 }
